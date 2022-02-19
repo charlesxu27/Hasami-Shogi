@@ -3,7 +3,7 @@
 
  ## About The Project
 
-<img src="https://imgur.com/a/LP9MqjS" width=250>
+<img src="https://github.com/charlesxu27/Hasami-Shogi/blob/main/Game%20Screenshot.png?raw=true" width=250>
 
 ## Overview
 
