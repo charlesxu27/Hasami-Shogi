@@ -3,8 +3,15 @@
 
  ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<img src="https://imgur.com/a/LP9MqjS" width=250>
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+## Overview
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+Hasami Shogi is a 2-player game with one player moving the red pawns and one player moving the black pawns. Pawns can be captured if they are sandwiched either horizontally or vertically by the opponent’s pawns. Valid move returns True; false, otherwise. A player wins
+when the opponent has one or zero pawns left on the board.
+
+## Instructions
+
+Compile and run the python file.
+Follow the on-screen instructions.
+Have fun! :D
